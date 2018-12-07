@@ -24,9 +24,9 @@ files svm-train and svm-predict.
 
 Scripts folder contains python scripts to run the baseline model on testing data. 
 
-...
+```
 $ python run_SVM_testing_data.py
-...
+```
 
 
 # Running LSTM-CRF
@@ -38,6 +38,6 @@ Please make use of the docker configuration file provided:
 
 Run the following command to execute LSTM-CRF
 
-...
+```
 $ docker run --it tensorflow/tensorflow:latest scripts/run_lstm_crf.py
-...
+```
