@@ -7,7 +7,7 @@ and predicts the choices made by participants. Please read the [report](https://
 for more details on the experiment, data, models, and results.
 
 # Data
-Functional Magnetic Resonance Imaging (fMRI) data consists of temporal values of intensities ranging from 0-800
+Functional Magnetic Resonance Imaging (fMRI) data consists of temporal values of intensities ranging from 0 to 800
 extracted at every [voxel](https://en.wikipedia.org/wiki/Voxel) in the [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus) region of the brain for a period of 20 seconds. The temporal resolution of
 functional data is 1 second and spatial resolution is 2.5mm x 2.5mm x 2.9mm.
 Every participant makes 10 choices- 5 songs (Experiences) and 5 games (Gambles), wherein each choice they 
