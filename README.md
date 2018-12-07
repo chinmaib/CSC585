@@ -16,9 +16,11 @@ were asked to select between a risky (high-variance) choice and a safe (low-vari
 ## Testing Data
 Test data is located under subjects folder and organized subject-wise. The functioanl data is stored in CSV
 folders as CSV files and behavioral data is stores in Behavioral folder as txt files. The folder structure is as below:
-Subjects
-    Subject2017-03_PD
-        CSV
+
++ Subjects
++   --Subject2017-03_PD
++       --- CSV                 
++           ---- Hippocampus
 
 # Running Baseline (SVM)
 We make use of [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/) library to run the baseline SVM model. 
